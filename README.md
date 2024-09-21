@@ -1,6 +1,6 @@
 ## Hi there 👋
 <h1 align="center">Hi 👋, I'm Nitiksh K</h1>
-<h3 align="center">A passionate frontend developer from India, Moving to California Soon</h3>
+<h3 align="center">A passionate developer from India, Moving to California Soon</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
